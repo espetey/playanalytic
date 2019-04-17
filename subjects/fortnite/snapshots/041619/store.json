@@ -1,0 +1,312 @@
+{
+  "store": {
+    "vbucks": "https:\/\/fortnite-public-files.theapinetwork.com\/fortnite-vbucks-icon.png",
+    "date_layout": "day-month-year",
+    "date": "17-04-19",
+    "lastupdate": 1555459201,
+    "rows": 10,
+    "language": "en",
+    "items": [
+      {
+        "itemid": "43d960d-e6edf0b-de23fb5-379d699",
+        "name": "Scrambler",
+        "cost": "500",
+        "featured": 1,
+        "refundable": 1,
+        "lastupdate": 1555459201,
+        "item": {
+          "name": "Scrambler",
+          "description": "Mix it up.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/pickaxe\/d90dcd5270b7ef8088afc813b400e0f2.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/pickaxe\/d90dcd5270b7ef8088afc813b400e0f2.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/43d960d-e6edf0b-de23fb5-379d699.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/43d960d-e6edf0b-de23fb5-379d699\/item.png",
+            "featured": {
+              "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/featured\/43d960d-e6edf0b-de23fb5-379d699.png"
+            }
+          },
+          "captial": "pickaxe",
+          "type": "pickaxe",
+          "rarity": "uncommon",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 3.45,
+          "totalPoints": 152,
+          "numberVotes": 44
+        }
+      },
+      {
+        "itemid": "a43d402-cefd37e-7bbf721-e553c4f",
+        "name": "P.A.N.D.A Team Leader",
+        "cost": "2000",
+        "featured": 1,
+        "refundable": 1,
+        "lastupdate": 1555459201,
+        "item": {
+          "name": "P.A.N.D.A Team Leader",
+          "description": "Victory now. Nap later.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/ad67ab1462915e58a6d1332280b2e8c7.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/ad67ab1462915e58a6d1332280b2e8c7.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/a43d402-cefd37e-7bbf721-e553c4f.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/a43d402-cefd37e-7bbf721-e553c4f\/item.png",
+            "featured": {
+              "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/featured\/a43d402-cefd37e-7bbf721-e553c4f.png"
+            }
+          },
+          "captial": "outfit",
+          "type": "outfit",
+          "rarity": "legendary",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 4.29,
+          "totalPoints": 2069,
+          "numberVotes": 482
+        }
+      },
+      {
+        "itemid": "1587ee5-f34bc7b-8934613-2200ed2",
+        "name": "Flappy Flyer",
+        "cost": "800",
+        "featured": 1,
+        "refundable": 1,
+        "lastupdate": 1555459201,
+        "item": {
+          "name": "Flappy Flyer",
+          "description": "Keep it flappy.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/glider\/c436a797964110cf5d752bc6706707e1.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/glider\/c436a797964110cf5d752bc6706707e1.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/1587ee5-f34bc7b-8934613-2200ed2.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/1587ee5-f34bc7b-8934613-2200ed2\/item.png",
+            "featured": {
+              "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/featured\/1587ee5-f34bc7b-8934613-2200ed2.png"
+            }
+          },
+          "captial": "glider",
+          "type": "glider",
+          "rarity": "rare",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 4.23,
+          "totalPoints": 448,
+          "numberVotes": 106
+        }
+      },
+      {
+        "itemid": "e333100-a59c712-e66e579-e5537cd",
+        "name": "Tender Defender",
+        "cost": "1500",
+        "featured": 1,
+        "refundable": 1,
+        "lastupdate": 1555459201,
+        "item": {
+          "name": "Tender Defender",
+          "description": "Protect your nuggets.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/e4aa94bb36bcdba631de1f90da753a1e.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/e4aa94bb36bcdba631de1f90da753a1e.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/e333100-a59c712-e66e579-e5537cd.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/e333100-a59c712-e66e579-e5537cd\/item.png",
+            "featured": {
+              "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/featured\/e333100-a59c712-e66e579-e5537cd.png"
+            }
+          },
+          "captial": "outfit",
+          "type": "outfit",
+          "rarity": "epic",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 3.85,
+          "totalPoints": 651,
+          "numberVotes": 169
+        }
+      },
+      {
+        "itemid": "252e1ed-bbe743f-14cb0a1-b5ed005",
+        "name": "Relax Axe",
+        "cost": "800",
+        "featured": 0,
+        "refundable": 1,
+        "lastupdate": 1555459201,
+        "item": {
+          "name": "Relax Axe",
+          "description": null,
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/pickaxe\/8c4e2162e3f961559ded9030e9bdbf8c.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/pickaxe\/8c4e2162e3f961559ded9030e9bdbf8c.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/252e1ed-bbe743f-14cb0a1-b5ed005.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/252e1ed-bbe743f-14cb0a1-b5ed005\/item.png",
+            "featured": {
+              "transparent": null
+            }
+          },
+          "captial": "pickaxe",
+          "type": "pickaxe",
+          "rarity": "rare",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 3.93,
+          "totalPoints": 228,
+          "numberVotes": 58
+        }
+      },
+      {
+        "itemid": "d49effb-e8c0866-3642ef4-44b0c2f",
+        "name": "Volley Girl",
+        "cost": "1200",
+        "featured": 0,
+        "refundable": 1,
+        "lastupdate": 1555459201,
+        "item": {
+          "name": "Volley Girl",
+          "description": "If you got served, it's not her fault.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/a73ebeece79c096d1615eb8da6796a41.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/a73ebeece79c096d1615eb8da6796a41.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/d49effb-e8c0866-3642ef4-44b0c2f.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/d49effb-e8c0866-3642ef4-44b0c2f\/item.png",
+            "featured": {
+              "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/featured\/d49effb-e8c0866-3642ef4-44b0c2f.png"
+            }
+          },
+          "captial": "outfit",
+          "type": "outfit",
+          "rarity": "rare",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 4.13,
+          "totalPoints": 1972,
+          "numberVotes": 477
+        }
+      },
+      {
+        "itemid": "919887e-1fdfbd3-1aa2a7b-5095516",
+        "name": "Fresh Cut",
+        "cost": "500",
+        "featured": 0,
+        "refundable": 1,
+        "lastupdate": 1555459201,
+        "item": {
+          "name": "Fresh Cut",
+          "description": null,
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/pickaxe\/f6dc331272bc8ba33f3bd28f2599dbad.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/pickaxe\/f6dc331272bc8ba33f3bd28f2599dbad.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/919887e-1fdfbd3-1aa2a7b-5095516.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/919887e-1fdfbd3-1aa2a7b-5095516\/item.png",
+            "featured": {
+              "transparent": null
+            }
+          },
+          "captial": "pickaxe",
+          "type": "pickaxe",
+          "rarity": "uncommon",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 4.08,
+          "totalPoints": 363,
+          "numberVotes": 89
+        }
+      },
+      {
+        "itemid": "53ce0ce-c6b4989-21c603d-684591f",
+        "name": "Electro Shuffle",
+        "cost": "800",
+        "featured": 0,
+        "refundable": 1,
+        "lastupdate": 1555459201,
+        "item": {
+          "name": "Electro Shuffle",
+          "description": null,
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/emote\/eb1786e19e53a3685929ecb395408b0c.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/emote\/eb1786e19e53a3685929ecb395408b0c.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/53ce0ce-c6b4989-21c603d-684591f.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/53ce0ce-c6b4989-21c603d-684591f\/item.png",
+            "featured": {
+              "transparent": null
+            }
+          },
+          "captial": "emote",
+          "type": "emote",
+          "rarity": "epic",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 4.38,
+          "totalPoints": 1385,
+          "numberVotes": 316
+        }
+      },
+      {
+        "itemid": "e8e3853-869b5f6-fd061f7-e6e9db3",
+        "name": "Laugh It Up",
+        "cost": "500",
+        "featured": 0,
+        "refundable": 1,
+        "lastupdate": 1555459201,
+        "item": {
+          "name": "Laugh It Up",
+          "description": "What's so funny?",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/emote\/7f4c578090d3cce2f550236c26af2c33.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/emote\/7f4c578090d3cce2f550236c26af2c33.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/e8e3853-869b5f6-fd061f7-e6e9db3.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/e8e3853-869b5f6-fd061f7-e6e9db3\/item.png",
+            "featured": {
+              "transparent": null
+            }
+          },
+          "captial": "emote",
+          "type": "emote",
+          "rarity": "rare",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 3.97,
+          "totalPoints": 726,
+          "numberVotes": 183
+        }
+      },
+      {
+        "itemid": "a51dec5-539b489-922e4f2-d589b55",
+        "name": "Marino",
+        "cost": "1200",
+        "featured": 0,
+        "refundable": 1,
+        "lastupdate": 1555459201,
+        "item": {
+          "name": "Marino",
+          "description": "Tame the tropics.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/34bb069235fffdcf5b203259fae73c9b.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/34bb069235fffdcf5b203259fae73c9b.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/a51dec5-539b489-922e4f2-d589b55.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/a51dec5-539b489-922e4f2-d589b55\/item.png",
+            "featured": {
+              "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/featured\/a51dec5-539b489-922e4f2-d589b55.png"
+            }
+          },
+          "captial": "outfit",
+          "type": "outfit",
+          "rarity": "rare",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 3.65,
+          "totalPoints": 676,
+          "numberVotes": 185
+        }
+      }
+    ]
+  }
+}
