@@ -1,0 +1,312 @@
+{
+  "store": {
+    "vbucks": "https:\/\/fortnite-public-files.theapinetwork.com\/fortnite-vbucks-icon.png",
+    "date_layout": "day-month-year",
+    "date": "01-05-19",
+    "lastupdate": 1556668801,
+    "rows": 10,
+    "language": "en",
+    "items": [
+      {
+        "itemid": "d930dba-8e19b63-a6d5d94-6978fe3",
+        "name": "Star-Lord Outfit",
+        "cost": "1500",
+        "featured": 1,
+        "refundable": 1,
+        "lastupdate": 1556668801,
+        "item": {
+          "name": "Star-Lord Outfit",
+          "description": "Do something good, something bad, a bit of both!",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/a6bac035952059b94ba5e665f6f5a0f0.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/a6bac035952059b94ba5e665f6f5a0f0.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/d930dba-8e19b63-a6d5d94-6978fe3.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/d930dba-8e19b63-a6d5d94-6978fe3\/item.png",
+            "featured": {
+              "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/featured\/d930dba-8e19b63-a6d5d94-6978fe3.png"
+            }
+          },
+          "captial": "outfit",
+          "type": "outfit",
+          "rarity": "marvel",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 4.07,
+          "totalPoints": 1711,
+          "numberVotes": 420
+        }
+      },
+      {
+        "itemid": "d54bbb3-089ec26-0c67700-5484644",
+        "name": "Dance Off",
+        "cost": "500",
+        "featured": 1,
+        "refundable": 1,
+        "lastupdate": 1556668801,
+        "item": {
+          "name": "Dance Off",
+          "description": "Star-Lord\u00e2\u20ac\u2122s perfect distraction.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/emote\/e4c7b4af53684e2f196ffb82d2ea659a.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/emote\/e4c7b4af53684e2f196ffb82d2ea659a.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/d54bbb3-089ec26-0c67700-5484644.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/d54bbb3-089ec26-0c67700-5484644\/item.png",
+            "featured": {
+              "transparent": null
+            }
+          },
+          "captial": "emote",
+          "type": "emote",
+          "rarity": "marvel",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 4.11,
+          "totalPoints": 616,
+          "numberVotes": 150
+        }
+      },
+      {
+        "itemid": "f421389-fe2a512-f780fc9-2e78757",
+        "name": "Guardian Axe",
+        "cost": "500",
+        "featured": 1,
+        "refundable": 1,
+        "lastupdate": 1556668801,
+        "item": {
+          "name": "Guardian Axe",
+          "description": "Cut down cosmic threats.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/pickaxe\/ebd2802ccdb7b8851a0bff5ad53d0776.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/pickaxe\/ebd2802ccdb7b8851a0bff5ad53d0776.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/f421389-fe2a512-f780fc9-2e78757.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/f421389-fe2a512-f780fc9-2e78757\/item.png",
+            "featured": {
+              "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/featured\/f421389-fe2a512-f780fc9-2e78757.png"
+            }
+          },
+          "captial": "pickaxe",
+          "type": "pickaxe",
+          "rarity": "marvel",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 4.19,
+          "totalPoints": 260,
+          "numberVotes": 62
+        }
+      },
+      {
+        "itemid": "5a9689f-590d3ff-7857d9b-b5bbf59",
+        "name": "The Milano",
+        "cost": "1200",
+        "featured": 1,
+        "refundable": 1,
+        "lastupdate": 1556668801,
+        "item": {
+          "name": "The Milano",
+          "description": "Guard the galaxy in style.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/glider\/9df1b706eabbb63ff83fc02e4904d394.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/glider\/9df1b706eabbb63ff83fc02e4904d394.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/5a9689f-590d3ff-7857d9b-b5bbf59.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/5a9689f-590d3ff-7857d9b-b5bbf59\/item.png",
+            "featured": {
+              "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/featured\/5a9689f-590d3ff-7857d9b-b5bbf59.png"
+            }
+          },
+          "captial": "glider",
+          "type": "glider",
+          "rarity": "marvel",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 4.57,
+          "totalPoints": 589,
+          "numberVotes": 129
+        }
+      },
+      {
+        "itemid": "3c83cd1-592e881-d91e78b-34442d8",
+        "name": "Bullseye",
+        "cost": "800",
+        "featured": 0,
+        "refundable": 1,
+        "lastupdate": 1556668801,
+        "item": {
+          "name": "Bullseye",
+          "description": "I never miss.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/890b58b6c659f3fb5565b7f7b211d1c8.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/890b58b6c659f3fb5565b7f7b211d1c8.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/3c83cd1-592e881-d91e78b-34442d8.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/3c83cd1-592e881-d91e78b-34442d8\/item.png",
+            "featured": {
+              "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/featured\/3c83cd1-592e881-d91e78b-34442d8.png"
+            }
+          },
+          "captial": "outfit",
+          "type": "outfit",
+          "rarity": "uncommon",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 4.53,
+          "totalPoints": 1704,
+          "numberVotes": 376
+        }
+      },
+      {
+        "itemid": "4a65d0a-5187e29-be1ea3a-2b6a023",
+        "name": "Voyager",
+        "cost": "800",
+        "featured": 0,
+        "refundable": 1,
+        "lastupdate": 1556668801,
+        "item": {
+          "name": "Voyager",
+          "description": null,
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/glider\/67803b01a973781771e9c3d04597fd55.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/glider\/67803b01a973781771e9c3d04597fd55.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/4a65d0a-5187e29-be1ea3a-2b6a023.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/4a65d0a-5187e29-be1ea3a-2b6a023\/item.png",
+            "featured": {
+              "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/featured\/4a65d0a-5187e29-be1ea3a-2b6a023.png"
+            }
+          },
+          "captial": "glider",
+          "type": "glider",
+          "rarity": "rare",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 2.91,
+          "totalPoints": 67,
+          "numberVotes": 23
+        }
+      },
+      {
+        "itemid": "5b9a866-7d3a15e-fa3e594-c5fa774",
+        "name": "Ground Pound",
+        "cost": "200",
+        "featured": 0,
+        "refundable": 1,
+        "lastupdate": 1556668801,
+        "item": {
+          "name": "Ground Pound",
+          "description": "Take it for a spin.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/emote\/c3630ad59229379b1f27119f3be8d1c9.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/emote\/c3630ad59229379b1f27119f3be8d1c9.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/5b9a866-7d3a15e-fa3e594-c5fa774.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/5b9a866-7d3a15e-fa3e594-c5fa774\/item.png",
+            "featured": {
+              "transparent": null
+            }
+          },
+          "captial": "emote",
+          "type": "emote",
+          "rarity": "uncommon",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 3.97,
+          "totalPoints": 694,
+          "numberVotes": 175
+        }
+      },
+      {
+        "itemid": "3f87e6f-d6cd088-5e3f2a9-3639456",
+        "name": "Sleuth",
+        "cost": "1500",
+        "featured": 0,
+        "refundable": 1,
+        "lastupdate": 1556668801,
+        "item": {
+          "name": "Sleuth",
+          "description": "This detective is on the case.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/a44a6284fa3ef743fc278419bcfd734a.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/outfit\/a44a6284fa3ef743fc278419bcfd734a.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/3f87e6f-d6cd088-5e3f2a9-3639456.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/3f87e6f-d6cd088-5e3f2a9-3639456\/item.png",
+            "featured": {
+              "transparent": null
+            }
+          },
+          "captial": "outfit",
+          "type": "outfit",
+          "rarity": "epic",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 3.45,
+          "totalPoints": 214,
+          "numberVotes": 62
+        }
+      },
+      {
+        "itemid": "4dee53a-05814ee-6615014-05786e8",
+        "name": "Caliper",
+        "cost": "500",
+        "featured": 0,
+        "refundable": 1,
+        "lastupdate": 1556668801,
+        "item": {
+          "name": "Caliper",
+          "description": null,
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/pickaxe\/45f6f597ca0601845f4427473afce94a.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/pickaxe\/45f6f597ca0601845f4427473afce94a.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/4dee53a-05814ee-6615014-05786e8.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/4dee53a-05814ee-6615014-05786e8\/item.png",
+            "featured": {
+              "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/featured\/4dee53a-05814ee-6615014-05786e8.png"
+            }
+          },
+          "captial": "pickaxe",
+          "type": "pickaxe",
+          "rarity": "uncommon",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 3.89,
+          "totalPoints": 323,
+          "numberVotes": 83
+        }
+      },
+      {
+        "itemid": "0add7aa-f3225d4-8e12143-753c789",
+        "name": "Llamacadabra",
+        "cost": "800",
+        "featured": 0,
+        "refundable": 1,
+        "lastupdate": 1556668801,
+        "item": {
+          "name": "Llamacadabra",
+          "description": "Don't forget the magic word.",
+          "image": "https:\/\/fortnite-public-files.theapinetwork.com\/emote\/962a0fc1ccef5df6760f6e061a216b23.png",
+          "images": {
+            "transparent": "https:\/\/fortnite-public-files.theapinetwork.com\/emote\/962a0fc1ccef5df6760f6e061a216b23.png",
+            "background": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/0add7aa-f3225d4-8e12143-753c789.png",
+            "information": "https:\/\/fortnite-public-files.theapinetwork.com\/image\/0add7aa-f3225d4-8e12143-753c789\/item.png",
+            "featured": {
+              "transparent": null
+            }
+          },
+          "captial": "emote",
+          "type": "emote",
+          "rarity": "epic",
+          "obtained_type": "vbucks"
+        },
+        "ratings": {
+          "avgStars": 4.08,
+          "totalPoints": 837,
+          "numberVotes": 205
+        }
+      }
+    ]
+  }
+}
