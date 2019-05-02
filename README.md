@@ -1,6 +1,6 @@
 # Play Analytic
 
-Perform data analysis on, and attempt to draw relationships  between, video games, sports, finance, consumer markets, weather, literature, and more using Python, R, SQL, Tableau, D3, and as many APIs as possible.
+Perform data analysis on, and attempt to draw relationships  between, video games, sports, finance, consumer markets, weather, literature, and more using Python, R, Julia, SQL, Tableau, D3.js, and as many APIs as possible.
 
 #### Subject data and apis
 
